@@ -1,0 +1,23 @@
+{
+    "name": "arodiss/linkedin",
+    "version": "0.9.0",
+    "type": "library",
+    "description": "Fork of mahmuahsan's lib for LinkedIn integration",
+    "keywords": ["linkedin", "oauth"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahmud Ahsan",
+            "homepage": "http://thinkdiff.net",
+            "role": "original author"
+        },
+        {
+            "name": "Sidora Gleb",
+            "email": "zetaro@bigmir.net",
+            "role": "contributor"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
