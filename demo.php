@@ -14,6 +14,8 @@
     //$linkedin->debug = true;
 
    if (isset($_REQUEST['oauth_verifier'])){
+   
+   
         $_SESSION['oauth_verifier']     = $_REQUEST['oauth_verifier'];
 
         $linkedin->request_token    =   unserialize($_SESSION['requestToken']);
@@ -23,11 +25,18 @@
         $_SESSION['oauth_access_token'] = serialize($linkedin->access_token);
         header("Location: " . $config['callback_url']);
         exit;
+   
+   
    }
-   else{
+   
+   else
+   
+   {
+
         $linkedin->request_token    =   unserialize($_SESSION['requestToken']);
         $linkedin->oauth_verifier   =   $_SESSION['oauth_verifier'];
         $linkedin->access_token     =   unserialize($_SESSION['oauth_access_token']);
+
    }
 
 
