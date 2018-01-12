@@ -12,5 +12,3 @@
 
 ✔ Users can also update their status from your site using linkedin apis
 
-✔ And many moreÉ
-
