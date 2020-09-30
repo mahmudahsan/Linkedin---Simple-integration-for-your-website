@@ -12,3 +12,4 @@
 
 ✔ Users can also update their status from your site using linkedin apis
 
+✓ follow above steps and everything is clear
