@@ -8,7 +8,7 @@
 
 ✔ You may create authentication through linkedin api so that user don't need to register in your site
 
-✔ You can search profile, connection
+✔ You can search profile, connection, mutuals,etc
 
 ✔ Users can also update their status from your site using linkedin apis
 
