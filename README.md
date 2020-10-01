@@ -1,6 +1,6 @@
 # Linkedin API integration in PHP based Web App
 
-### Full Tutorial: http://thinkdiff.net/linkedin/integrate-linkedin-api-in-your-site/
+### For Full Tutorial Visit: http://thinkdiff.net/linkedin/integrate-linkedin-api-in-your-site/
 
 ✔ Users can bring linkedin profile and network in your site 
 
@@ -8,7 +8,7 @@
 
 ✔ You may create authentication through linkedin api so that user don't need to register in your site
 
-✔ You can search profile, connection
+✔ You can search profile and build connections.
 
 ✔ Users can also update their status from your site using linkedin apis
 
