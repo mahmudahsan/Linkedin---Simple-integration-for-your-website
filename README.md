@@ -1,5 +1,5 @@
 # Linkedin API integration in PHP based Web App
-#Linkedin is one of the most popular employment oriented website that is accesiible via both mobile apps and website.So by integrating our website with this API will give the website a great feel and look. 
+Linkedin is one of the most popular employment oriented website that is accesiible via both mobile apps and website.So by integrating our website with this API will give the website a great feel and look. 
 
 ### Full Tutorial: http://thinkdiff.net/linkedin/integrate-linkedin-api-in-your-site/
 
