@@ -12,3 +12,4 @@
 
 ✔ Users can also update their status from your site using linkedin apis
 
+✔ It is open source anf free website 
