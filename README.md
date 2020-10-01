@@ -2,6 +2,8 @@
 
 ### Full Tutorial: http://thinkdiff.net/linkedin/integrate-linkedin-api-in-your-site/
 
+Intriguing features of this API integration :-
+
 ✔ Users can bring linkedin profile and network in your site 
 
 ✔ There are 52 millions users in linkedin so you can engage them in your site
