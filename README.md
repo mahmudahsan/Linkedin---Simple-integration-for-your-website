@@ -10,5 +10,5 @@
 
 ✔ You can search profile, connection
 
-✔ Users can also update their status from your site using linkedin apis
+✔ Users can also update their status from your site using linkedin API's
 
