@@ -1,4 +1,4 @@
-# Linkedin API integration in PHP based Web App
+# Linkedin API integration in PHP based Web App Service
 
 ### Full Tutorial: http://thinkdiff.net/linkedin/integrate-linkedin-api-in-your-site/
 
